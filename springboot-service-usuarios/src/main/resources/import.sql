@@ -1,0 +1,2 @@
+insert into usuarios (username, password, enabled, nombre, apellido, email) values ('jahir', '21821', 1, 'Jahir', 'Lopez', 'jahir@gmail.com')
+insert into usuarios (username, password, enabled, nombre, apellido, email) values ('aldo', '21822', 1, 'Aldo', 'Hernandez', 'aldo@uanl.com');
